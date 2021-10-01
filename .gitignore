@@ -1,0 +1,9 @@
+### Build targets & compilation outputs
+frontend/node/*
+frontend/node_modules/*
+frontend/build/*
+
+target/*
+
+### Settings & IDE Specifics
+.vscode/*
